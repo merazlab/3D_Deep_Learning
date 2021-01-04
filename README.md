@@ -27,6 +27,11 @@
 
 [SYDNEY URBAN OBJECTS DATASET] http://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml
 
+[ShapeNet] https://www.shapenet.org/ 
+ https://arxiv.org/pdf/1512.03012.pdf
+  - ShapeNetCore
+  - ShapeNetSem
+
 ---
 ## Thesis
 [Representing 3D Shape in Sparse Range Images for Urban Object Classification] https://core.ac.uk/download/pdf/41238133.pdf

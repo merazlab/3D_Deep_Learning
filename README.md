@@ -11,7 +11,16 @@
 - DataSets
 - Compedition
 - Talk
+- Conference
 - Event
+  - Upcomming Event
+  - Past Event
+- Companies 
+- Jobs
+- Internship
+- Professor
+- Labs
+- GitHub  
 - Sensors
 ---
 ## Dataset

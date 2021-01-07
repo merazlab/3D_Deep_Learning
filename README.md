@@ -35,3 +35,6 @@
 ---
 ## Thesis
 [Representing 3D Shape in Sparse Range Images for Urban Object Classification] https://core.ac.uk/download/pdf/41238133.pdf
+
+## Labs
+[Robotics and Intelligent and system control Lab]https://cemse.kaust.edu.sa/risc

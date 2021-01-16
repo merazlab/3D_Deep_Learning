@@ -47,23 +47,14 @@
 
 ### 3D Shape Classification / Segmentation
 
-### **Point MLP Methods**
+### **1. Point MLP Methods**
 
 | S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
 | ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
 | 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
 | ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
 
-### **Convolution Based Methods**
-
-| S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
-| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
-| 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
-| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
-
-
-
-### **Graph Based Methods**
+### **2- Convolution Based Methods**
 
 | S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
 | ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
@@ -71,7 +62,16 @@
 | ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
 
 
-### **Other Methods**
+
+### **3- Graph Based Methods**
+
+| S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+| 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+
+
+### **4- Other Methods**
 
 | S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
 | ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |

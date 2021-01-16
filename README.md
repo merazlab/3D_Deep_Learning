@@ -33,9 +33,10 @@
 
 ---
 ## Thesis
-1. Charles---> [Representing 3D Shape in Sparse Range Images for Urban Object Classification](https://core.ac.uk/download/pdf/41238133.pdf)
-
-2. Hou Su---> [DEEP 3D REPRESENTATION LEARNING](http://ai.ucsd.edu/~haosu/papers/thesis_finalversion.pdf)
+| Year | NAME | Institute | Tittle of the Thesis | 
+| ---- | ---- | --------- | -------------------- |
+| ---- | Charles | ------ | [Representing 3D Shape in Sparse Range Images for Urban Object Classification](https://core.ac.uk/download/pdf/41238133.pdf) |
+| --- | Hao Su | -------- | [DEEP 3D REPRESENTATION LEARNING](http://ai.ucsd.edu/~haosu/papers/thesis_finalversion.pdf) |
 
 ---
 ## Labs
@@ -60,7 +61,6 @@
 | ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
 | 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
 | ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
-
 
 
 ### **3- Graph Based Methods**

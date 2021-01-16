@@ -41,11 +41,54 @@
 ## Labs
 1. KAUST [Robotics and Intelligent and system control Lab](https://cemse.kaust.edu.sa/risc)
 
+---
+<!-- Researcher Paper cls/ seg -->
+## Research Paper
+
+### 3D Shape Classification / Segmentation
+
+### **Point MLP Methods**
+
+| S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+| 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+
+### **Convolution Based Methods**
+
+| S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+| 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
 
 
-<!-- Researcher -->
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+### **Graph Based Methods**
+
+| S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+| 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+
+
+### **Other Methods**
+
+| S.No | Method | ModelNet40 | ModelNet10 | ShapeNet | Pytorch | Tensorflow |
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+| 1 | [PointNet](https://arxiv.org/pdf/1612.00593.pdf) | 89.2 | --- | --- | [CUDA](https://github.com/charlesq34/pointnet)| [CUDA](https://github.com/fxia22/pointnet.pytorch) | 
+| ----- | ------ | ---------- | ---------- | -------- | ------- | ---------- |
+<!-- Researcher Paper detection -->
+<!-- Researcher Paper Segmentatin -->
+<!-- Researcher Paper Tracking -->
+
+
+
+
+
+<!-- Researcher Website Link -->
+---
+
+| S. No | Name | GitHub Page/Web Page |
+| ----- | ---- | ----------- | -------- |
+| 1. | Hengshuang Zhao | [hszhao](https://github.com/hszhao) | 
+| 2. | Md Meraz        | [merazlab](https://github.com/merazlab)

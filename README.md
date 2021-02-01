@@ -1,19 +1,20 @@
 # 3D_Deep_Learning_Link
 
-- Resesrch Paper
+- Research Paper
+- Dataset
 - Thesis
 - Book
-- Scholor
+- Scholar
+- Talk
 - Courses
-- Notebbok
+- Notebook
 - Blog(Medium Link)
 - Project
-- DataSets
-- Compedition
-- Talk
+- Visualizer
+- Competition
 - Conference
 - Event
-  - Upcomming Event
+  - Upcoming Event
   - Past Event
 - Companies 
 - Jobs
@@ -92,3 +93,10 @@
 | ----- | ---- | ----------- | -------- |
 | 1. | Hengshuang Zhao | [hszhao](https://github.com/hszhao) | 
 | 2. | Md Meraz        | [merazlab](https://github.com/merazlab)
+
+
+## Visualizer
+
+1- [Pyvista](https://github.com/pyvista/pyvista)
+
+2- 

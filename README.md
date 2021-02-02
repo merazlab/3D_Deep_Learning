@@ -73,7 +73,7 @@
 | Picture | Person | Institute | Paper |
 | --- | ------ | --------- | ----- |
 | <img src="./person/hou_su.jpg" alt="Hou su" id="hao_su" width="80" height="80" /> | [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego - USA | --- |
-| <img src="./person/meraz.jpeg" alt="Hou su" width="80" height="80" /> | [Md. Meraz](https://merazlab.github.io/) | IIIT Allahabad- IND | --- |
+| <img src="./person/meraz.jpeg" alt="Hou su" width="80" height="80" scale="1.5" /> | [Md. Meraz](https://merazlab.github.io/) | IIIT Allahabad- IND | --- |
 
 ---
 <div id="c11"></div>

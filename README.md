@@ -1,6 +1,11 @@
 # 3D_Deep_Learning_Link
 <div id=home></div>
 
+| Chapter | Chapter | Chapter |
+| ------- | ------- | ------- |
+| 1. [Research Paper](#c1) | 10. [Professor / Scholar](#C10) | Companies |
+| ------- | ------- | ------- |
+
 1. [Research Paper](#c1)
 2. Dataset
 3. Notebook
@@ -12,7 +17,6 @@
 9. Sensors
 
   
-10. Professor / Scholar
 11. Labs
 12.  Competition
 13. Conference
@@ -42,6 +46,7 @@
 ## Thesis
 | Year | NAME | Institute | Tittle of the Thesis | 
 | ---- | ---- | --------- | -------------------- |
+</div>
 | ---- | Charles | ------ | [Representing 3D Shape in Sparse Range Images for Urban Object Classification](https://core.ac.uk/download/pdf/41238133.pdf) |
 | --- | Hao Su | -------- | [DEEP 3D REPRESENTATION LEARNING](http://ai.ucsd.edu/~haosu/papers/thesis_finalversion.pdf) |
 

@@ -42,7 +42,7 @@
 
 | Year | Slide | Topic | Speaker |
 | ---- | ----- | ----- | ------- |
-| | Apr20 | [3D Deep Learning Tutorial](https://www.youtube.com/watch?v=vfL6uJYFrp4) | [Hao Su](#Hou_Su), [Jiyaun Gu](), [MinghuaLiu]() |
+| | Apr20 | [3D Deep Learning Tutorial](https://www.youtube.com/watch?v=vfL6uJYFrp4) | [Hao Su](#hou_su), [Jiyaun Gu](), [MinghuaLiu]() |
 
 ---
 <!-- start c6. Blogs(Mediums) -->
@@ -72,7 +72,7 @@
 
 | Picture | Person | Institute | Paper |
 | --- | ------ | --------- | ----- |
-| <img src="./person/hou_su.jpg" alt="Hou su" id="Hao_Su" width="80" height="80" /> | [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego - USA | --- |
+| <img src="./person/hou_su.jpg" alt="Hou su" id="hao_su" width="80" height="80" /> | [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego - USA | --- |
 | <img src="./person/hou_su.jpg" alt="Hou su" width="80" height="80" /> | [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego - USA | --- |
 
 ---

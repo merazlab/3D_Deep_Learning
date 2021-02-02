@@ -12,51 +12,56 @@
 | 7. [Thesis](#c7) | 16. [Project](#C16) | Companies |
 | 8. [Book](#c8) | 17. [Software](#C17) | Companies |
 | 9. [Sensors](#c9) | 18. [ .... ](#C18) | Companies |
----
-<div id="c1"></div>
-
-## 1.Research Paper  **[Home](#home)**
-
----
-
-- Companies 
-- Jobs
-- Internship
-- GitHub  
-
+<!-- start c1. Research Paper -->
 ---
 <div id="c1"></div>
 
 ## 1.Research Paper  **[Home](#home)**
 ---
+<!-- start c2. Datsets -->
 <div id="c2"></div>
 
 ## 2.Datasets  **[Home](#home)**
 ---
+<!-- start c3. Notebook -->
 <div id="c3"></div>
 
 ## 3.Notebook  **[Home](#home)**
 ---
+<!-- start c4. Courses -->
+
 <div id="c4"></div>
 
 ## 4.Courses  **[Home](#home)**
 ---
+<!-- start c5. Talks -->
+
 <div id="c5"></div>
 
 ## 5.Talk  **[Home](#home)**
+
+| Year | Slide | Topic | Speaker |
+| ---- | ----- | ----- | ------- |
+| | Apr20 | [3D Deep Learning Tutorial](https://www.youtube.com/watch?v=vfL6uJYFrp4) | [Hao Su](), [Jiyaun Gu](), [MinghuaLiu]() |
+
 ---
+<!-- start c6. Blogs(Mediums) -->
 <div id="c6"></div>
 
 ## 6.Blog(Mdium)  **[Home](#home)**
 ---
+<!-- start c7. Thesis -->
 <div id="c7"></div>
 
 ## 7.Thesis  **[Home](#home)**
 ---
+<!-- start c8. Book -->
 <div id="c8"></div>
 
 ## 8.Book  **[Home](#home)**
 ---
+<!-- start c9. Sensors -->
+
 <div id="c9"></div>
 
 ## 9.Sensor  **[Home](#home)**
@@ -64,6 +69,12 @@
 <div id="c10"></div>
 
 ## 10.Professor / Scholars  **[Home](#home)**
+
+| Pic | Person | Institute | Github / Profile | Paper |
+| --- | ------ | --------- | ---------------  | ----- |
+<img src="./person/hou_su.jpg" alt="Hou su" width="100" height="100" />
+
+
 ---
 <div id="c11"></div>
 

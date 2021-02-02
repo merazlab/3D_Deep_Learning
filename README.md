@@ -4,29 +4,20 @@
 | Chapter | Chapter | Chapter |
 | ------- | ------- | ------- |
 | 1. [Research Paper](#c1) | 10. [Professor / Scholar](#C10) | Companies |
-| ------- | ------- | ------- |
+| 2. [Datasets](#c2) | 11. [Labs](#C11) | Job |
+| 3. [Notebook](#c3) | 12. [Competition](#C12) | Internship |
+| 4. [Courses](#c4) | 13. [Conference](#C13) | Companies |
+| 5. [Talk](#c5) | 14. [Journal](#C14) | Companies |
+| 6. [Blog(Medium)](#c6) | 15. [Event](#C15) | Companies |
+| 7. [Thesis](#c7) | 16. [Project](#C16) | Companies |
+| 8. [Book](#c8) | 17. [Software](#C17) | Companies |
+| 9. [Sensors](#c9) | 18. [ .... ](#C18) | Companies |
+---
+<div id="c1"></div>
 
-1. [Research Paper](#c1)
-2. Dataset
-3. Notebook
-4. Courses
-5. Talk
-6. Blog(Medium Link)
-7. Thesis
-8. Book
-9. Sensors
+## 1.Research Paper  **[Home](#home)**
 
-  
-11. Labs
-12.  Competition
-13. Conference
-14. Event
-15. Upcoming Event
-16. Past Event
-17. Project
-18. Software
-
-
+---
 
 - Companies 
 - Jobs
@@ -34,6 +25,85 @@
 - GitHub  
 
 ---
+<div id="c1"></div>
+
+## 1.Research Paper  **[Home](#home)**
+---
+<div id="c2"></div>
+
+## 2.Datasets  **[Home](#home)**
+---
+<div id="c3"></div>
+
+## 3.Notebook  **[Home](#home)**
+---
+<div id="c4"></div>
+
+## 4.Courses  **[Home](#home)**
+---
+<div id="c5"></div>
+
+## 5.Talk  **[Home](#home)**
+---
+<div id="c6"></div>
+
+## 6.Blog(Mdium)  **[Home](#home)**
+---
+<div id="c7"></div>
+
+## 7.Thesis  **[Home](#home)**
+---
+<div id="c8"></div>
+
+## 8.Book  **[Home](#home)**
+---
+<div id="c9"></div>
+
+## 9.Sensor  **[Home](#home)**
+---
+<div id="c10"></div>
+
+## 10.Professor / Scholars  **[Home](#home)**
+---
+<div id="c11"></div>
+
+## 11.Labs  **[Home](#home)**
+---
+<div id="c12"></div>
+
+## 12.Competition  **[Home](#home)**
+---
+<div id="c13"></div>
+
+## 13.Conferences  **[Home](#home)**
+---
+<div id="c14"></div>
+
+## 14.Journal  **[Home](#home)**
+---
+<div id="c15"></div>
+
+## 15.Event  **[Home](#home)**
+---
+<div id="c16"></div>
+
+## 16.Project  **[Home](#home)**
+---
+<div id="c17"></div>
+
+## 17.Softwere  **[Home](#home)**
+---
+<div id="c18"></div>
+
+## 18.Research Paper  **[Home](#home)**
+---
+<div id="c19"></div>
+
+## 19.Research Paper  **[Home](#home)**
+---
+
+
+
 ## Dataset
 
 [SYDNEY URBAN OBJECTS DATASET](http://www.acfr.usyd.edu.au/papers/SydneyUrbanObjectsDataset.shtml)

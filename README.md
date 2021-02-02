@@ -42,7 +42,7 @@
 
 | Year | Slide | Topic | Speaker |
 | ---- | ----- | ----- | ------- |
-| | Apr20 | [3D Deep Learning Tutorial](https://www.youtube.com/watch?v=vfL6uJYFrp4) | [Hao Su](), [Jiyaun Gu](), [MinghuaLiu]() |
+| | Apr20 | [3D Deep Learning Tutorial](https://www.youtube.com/watch?v=vfL6uJYFrp4) | [Hao Su](#Hou_Su), [Jiyaun Gu](), [MinghuaLiu]() |
 
 ---
 <!-- start c6. Blogs(Mediums) -->
@@ -70,10 +70,10 @@
 
 ## 10.Professor / Scholars  **[Home](#home)**
 
-| Pic | Person | Institute | Github / Profile | Paper |
-| --- | ------ | --------- | ---------------  | ----- |
-<img src="./person/hou_su.jpg" alt="Hou su" width="70" height="70" />
-
+| Picture | Person | Institute | Paper |
+| --- | ------ | --------- | ----- |
+| <img src="./person/hou_su.jpg" alt="Hou su" id="Hao_Su" width="80" height="80" /> | [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego - USA | --- |
+| <img src="./person/hou_su.jpg" alt="Hou su" width="80" height="80" /> | [Hao Su](https://cseweb.ucsd.edu/~haosu/) | UC San Diego - USA | --- |
 
 ---
 <div id="c11"></div>
@@ -124,9 +124,11 @@
   - ShapeNetSem
 
 ---
+
 ## Thesis
 | Year | NAME | Institute | Tittle of the Thesis | 
 | ---- | ---- | --------- | -------------------- |
+
 </div>
 | ---- | Charles | ------ | [Representing 3D Shape in Sparse Range Images for Urban Object Classification](https://core.ac.uk/download/pdf/41238133.pdf) |
 | --- | Hao Su | -------- | [DEEP 3D REPRESENTATION LEARNING](http://ai.ucsd.edu/~haosu/papers/thesis_finalversion.pdf) |

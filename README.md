@@ -72,7 +72,7 @@
 
 | Pic | Person | Institute | Github / Profile | Paper |
 | --- | ------ | --------- | ---------------  | ----- |
-<img src="./person/hou_su.jpg" alt="Hou su" width="100" height="100" />
+<img src="./person/hou_su.jpg" alt="Hou su" width="70" height="70" />
 
 
 ---

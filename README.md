@@ -1,28 +1,33 @@
 # 3D_Deep_Learning_Link
 
-- Research Paper
-- Dataset
-- Thesis
-- Book
-- Scholar
-- Talk
-- Courses
-- Notebook
-- Blog(Medium Link)
-- Project
-- Visualizer
-- Competition
-- Conference
-- Event
-  - Upcoming Event
-  - Past Event
+1. [Research Paper](#c1)
+2. Dataset
+3. Notebook
+4. Courses
+5. Talk
+6. Blog(Medium Link)
+7. Thesis
+8. Book
+9. Sensors
+
+  
+10. Professor / Scholar
+11. Labs
+12.  Competition
+13. Conference
+14. Event
+15. Upcoming Event
+16. Past Event
+17. Project
+18. Software
+
+
+
 - Companies 
 - Jobs
 - Internship
-- Professor
-- Labs
 - GitHub  
-- Sensors
+
 ---
 ## Dataset
 
@@ -45,8 +50,17 @@
 
 ---
 <!-- Researcher Paper cls/ seg -->
-## Research Paper
+<div id="c1">
 
+## Research Paper 
+ffdffaf
+dfads
+afdsa
+f
+fd
+
+fdf
+</div>
 ### 3D Shape Classification / Segmentation
 
 ### **1. Point MLP Methods**

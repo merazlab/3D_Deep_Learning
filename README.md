@@ -42,7 +42,7 @@
 
 | Year | Slide | Topic | Speaker |
 | ---- | ----- | ----- | ------- |
-| | Apr20 | [3D Deep Learning Tutorial](https://www.youtube.com/watch?v=vfL6uJYFrp4) | [Hao Su](#hou_su), [Jiyaun Gu](), [MinghuaLiu]() |
+| Apr20 | [pdf](https://cseweb.ucsd.edu/~haosu/slides/3ddl_tutorial_version_20200403.pdf) | [3D Deep Learning Tutorial](https://www.youtube.com/watch?v=vfL6uJYFrp4) | [Hao Su](#hou_su), [Jiyaun Gu](), [MinghuaLiu]() |
 
 ---
 <!-- start c6. Blogs(Mediums) -->
